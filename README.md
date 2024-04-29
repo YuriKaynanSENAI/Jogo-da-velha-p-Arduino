@@ -44,5 +44,3 @@ com os Códigos e Correção de Bugs.
 Foi disponibilizado um tempo indeterminado o que nos possibilitou a amplitude do jogo,
 correção de erros, aprimoramento e jogabilidade. Nós finalizamos esse projeto em mais ou menos
 5 aulas porem com capacidade para melhorar e corrigir.
-
-
