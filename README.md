@@ -1,6 +1,12 @@
 # **Jogo Da Velha Para Arduino**
 
+## Nome: 
+Yuri Kaynan
+
 ## Introdução:
+
+
+
 
 O jogo da velha para Arduino foi feito no programa Flowgorithm
 criado para sermos introduzino em *Lógica de Programação.* 
