@@ -30,7 +30,7 @@
     var jogadordaVez;
 
     jogadordaVez = 1;
-
+    // Validar o jogador
     // anotar/Registrar a jogada do 1º Jogador
     velha = 1;
     do {
